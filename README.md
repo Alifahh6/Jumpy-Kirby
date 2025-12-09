@@ -26,10 +26,9 @@ py game.py
 - Paradigma Object-Oriented Programming (OOP)
 
 # 👩‍💻 Pengembang
-Alifah Nurul Fitriyani (24091397136)
+Alifah Nurul Fitriyani 
 
 
-📌 Catatan
+# 📌 Catatan
 Game ini dibuat sebagai proyek pembelajaran OOP dan pengembangan game 2D. Cocok untuk pemula yang ingin memahami struktur game sederhana menggunakan Python.
 
-Kalau kamu ingin menambahkan bagian seperti kontribusi, lisensi, atau rencana pengembangan, aku bisa bantu juga!
